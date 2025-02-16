@@ -1,38 +1,42 @@
 {
-   "error": {
-      "canceled": "Anulowano..",
-      "cruise_control_disabled": "Tempomat wyłączony",
-      "cruise_control_unavailable": "Tempomat niedostępny",
-      "deleted_recording": "Usunięto nagranie!",
-      "later_aligator": "Do zobaczenia aligatorze!",
-      "stress_gain": "Czuję się bardziej zestresowany!",
-      "no_vehicle_nearby": "W pobliżu brak pojazdu do przewrócenia."
-   },
-   "success": {
-      "cruise_control_enabled": "Tempomat włączony",
-      "started_recording": "Rozpoczęto nagrywanie!",
-      "stopped_recording": "Zatrzymano nagrywanie!",
-      "saved_recording": "Zapisano nagranie!",
-      "stress_relief": "Czuję się bardziej zrelaksowany!",
-      "flipped_car": "Pojazd przewrócony pomyślnie!"
-   },
-   "progress": {
-      "eating": "Jedzenie..",
-      "drinking": "Picie..",
-      "drinking_liquor": "Picie alkoholu..",
-      "quick_sniff": "Szybkie wąchanie..",
-      "smoking_crack": "Palenie cracku..",
-      "popping_pills": "Branie tabletek..",
-      "healing": "Leczenie..",
-      "smoking_meth": "Palenie mety..",
-      "lighting_joint": "Zapalanie jointa..",
-      "flipping_car": "Przewracanie pojazdu..."
-   },
-   "info": {
-      "minutes": "minuty",
-      "seconds": "sekundy.."
-   },
-   "actions": {
-      "push_vehicle": "Naciśnij [~g~SHIFT~w~] i [~g~E~w~], aby pchać pojazd aż do zwolnienia [~g~SHIFT~w~]"   
-   }
+  "error": {
+    "canceled": "Anulowano..",
+    "cruise_control_disabled": "Tempomat wyłączony",
+    "cruise_control_unavailable": "Tempomat niedostępny",
+    "deleted_recording": "Usunięto nagranie!",
+    "later_aligator": "Do zobaczenia!",
+    "stress_gain": "Wzrost poziomu stresu!",
+    "no_vehicle_nearby": "W pobliżu nie ma pojazdu do przewrócenia.",
+    "is_handcuffed": "Masz założone kajdanki.",
+    "is_fastened": "Masz zapięte pasy."
+  },
+  "success": {
+    "cruise_control_enabled": "Tempomat włączony",
+    "started_recording": "Rozpoczęto nagrywanie!",
+    "stopped_recording": "Zatrzymano nagrywanie!",
+    "saved_recording": "Zapisano nagranie!",
+    "stress_relief": "Uczucie relaksu!",
+    "flipped_car": "Pojazd został pomyślnie przewrócony!"
+  },
+  "progress": {
+    "eating": "Jedzenie..",
+    "drinking": "Picie..",
+    "drinking_liquor": "Picie alkoholu..",
+    "quick_sniff": "Szybki wdech..",
+    "smoking_crack": "Palenie cracku..",
+    "popping_pills": "Zażywanie tabletek..",
+    "healing": "Leczenie..",
+    "smoking_meth": "Palenie metamfetaminy..",
+    "lighting_joint": "Zapalanie jointa..",
+    "flipping_car": "Przewracanie pojazdu..."
+  },
+  "info": {
+    "minutes": "minuty",
+    "seconds": "sekundy..",
+    "shuffleSeat": "Zmień miejsce"
+  },
+  "actions": {
+    "push_vehicle": "Naciśnij [~g~SHIFT~w~] i [~g~E~w~], aby pchać pojazd, aż do zwolnienia [~g~SHIFT~w~]",
+    "toggle_cruise_control": "Przełącz tempomat"
+  }
 }
